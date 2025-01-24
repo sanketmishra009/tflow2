@@ -1,4 +1,4 @@
-# README: `transformer.ipynb`
+# `transformer.ipynb`
 
 This notebook provides an **introduction** to using **Transformer-based** architectures in TensorFlow 2. It demonstrates how to build, train, and evaluate a Transformer model for a chosen task (such as text classification, language modeling, or sequence-to-sequence translation). The notebook is designed to help readers understand the fundamental components and workflow when working with Transformers in a TensorFlow/Keras environment.
 
