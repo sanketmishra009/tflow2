@@ -1,4 +1,4 @@
-# TensorFlow 2: Chapter 7 - Advanced Deep Learning Concepts
+# TensorFlow 2: Transfer Learning.
 
 This repository contains the code and resources for Chapter 7 of my TensorFlow 2 series, focusing on advanced deep learning concepts. This chapter delves into topics such as custom training loops, advanced regularization techniques, optimization strategies, and transfer learning using pre-trained models.
 
